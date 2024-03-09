@@ -6,6 +6,10 @@
 
 ## Color Detection and Optical Flow Tracking
 
-``` python V2.py ```
+```
+ python V2.py 
+
+```
+
 ![color-tracking](https://github.com/KARAASLAN-AI/object-tracking-with-optical-flow/blob/main/v2_ouput.gif)
 
