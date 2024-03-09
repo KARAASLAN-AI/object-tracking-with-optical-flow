@@ -59,7 +59,7 @@ while (cap.isOpened()):
         # print(angle)
         # cv2.line(frame,(750,750),(x,y),(255,0,0),5)
         cv2.line(frame,(750,750),(1500,750),(255,0,0),5)
-        # cv2.circle(frame, (x,y),5,(0,0,255),-1)
+        cv2.circle(frame, (x,y),5,(0,0,255),-1)
         old_gray=frame_gray.copy()
         old_points=new_points
     cv2.imshow('frame',frame)
